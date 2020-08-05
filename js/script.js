@@ -6,7 +6,7 @@ $(document).ready(function () {
 		});
 	};
 
-	const char_data = json('char.json');
+	const char_data = json('js/char.json');
 
 });
 
