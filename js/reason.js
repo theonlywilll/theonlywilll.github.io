@@ -3,7 +3,6 @@ const reason_list = [
 	"incest",
 	"racism",
 	"romance",
-	"strategy",
 	"slavery",
 	"casuals",
 	"elitists"
