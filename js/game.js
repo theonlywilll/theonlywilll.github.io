@@ -22,7 +22,7 @@ const game_list = {
 	},
 	'jugdral': {
 		'fe5': 'Thracia 776',
-		'fe6': 'Genealogy of the Holy War'
+		'fe4': 'Genealogy of the Holy War'
 	},
 	'fodlan': {
 		'fe16': 'Three Houses'

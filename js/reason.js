@@ -5,8 +5,6 @@ const reason_list = [
 	"romance",
 	"strategy",
 	"slavery",
-	"child units",
-	"LTC",
 	"casuals",
 	"elitists"
 ]
