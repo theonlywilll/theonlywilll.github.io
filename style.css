@@ -11,3 +11,9 @@ h2 {
 p {
 	font-style: italic;
 }
+
+.bottom {
+    position: fixed;
+    bottom: 0;
+    font-size: 15px;
+}
