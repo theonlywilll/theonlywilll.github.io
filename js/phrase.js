@@ -5,7 +5,7 @@
 const phrase_list = [
 	"{c} is a fascist",
 	"{c} is racist",
-	"I don't get why people like {c}'s' character, they're literally just a one note personality",
+	"I don't get why people like {c}'s character, they're literally just a one note personality",
 	"{c} is only liked because of their tits",
 	"{c} is only liked because of their thighs",
 	"{c}'s character is just a worse version of {c}",
