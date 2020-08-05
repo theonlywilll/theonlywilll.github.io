@@ -26,7 +26,7 @@ const phrase_list = [
 	"I hate the {c} archetype",
 	"{c} is hypocritical",
 	"{c} is an asshole",
-	"{c} being shipped with {c} is actually terrible because it shows a lot of {r}",
+	"{c} being shipped with {c} is actually terrible because it promotes {r}",
 	"Kaga did {r} first",
 	"{c} is underrated", 
 	"{c} is overrated",
@@ -42,5 +42,14 @@ const phrase_list = [
 	"{c} stans are the worst",
 	"{c} fucks",
 	"{c} hates {r}",
-	"{r} ruined {g}"
+	"{r} ruined {g}",
+	"{c} needs to have a Summer alt in Heroes",
+	"The perfect Fire Emblem Warriors roster: {c}, {c}, {c}, {c}, and {c}",
+	"IS needs to add a new alt for {c} in Heroes",
+	"I wish {g} had a DLC with a new {c} costume",
+	"Where is the {g} remake? I want them to buff {c}!",
+	"{c} ended {r}",
+	"{c} jokes are not funny",
+	"{g} is the Dark Souls of Fire Emblem",
+	"{c} is the hottest Fire Emblem character"
 ]
