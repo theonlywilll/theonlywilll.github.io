@@ -43,7 +43,7 @@ const phrase_list = [
 	"{c} fucks",
 	"{c} hates {r}",
 	"{r} ruined {g}",
-	"{c} needs to have a Summer alt in Heroes",
+	"{c} needs a Summer alt in Heroes",
 	"The perfect Fire Emblem Warriors roster: {c}, {c}, {c}, {c}, and {c}",
 	"IS needs to add a new alt for {c} in Heroes",
 	"I wish {g} had a DLC with a new {c} costume",
