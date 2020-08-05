@@ -1,0 +1,40 @@
+// {c} = character name
+// {g} = game name
+// {r} = other
+
+const phrase_list = [
+	"{c} is a fascist",
+	"{c} is racist",
+	"I don't get why people like {c} character, they're literally just a one note personality",
+	"{c} is only liked because of their tits",
+	"{c}'s character is just a worse version of {c}",
+	"{c}'s character is just a better version of {c}",
+	"{c} is a bottom",
+	"{c} is a top",
+	"{c} ruined Fire Emblem",
+	"Maeda ruined {c}",
+	"{c} is the best character in the franchise",
+	"{c} x {c} is the best ship",
+	"Heroes ruined {c}",
+	"I like the {c} archetype",
+	"I hate the {c} archetype",
+	"{c} is hypocritical",
+	"{c} is an asshole",
+	"{c} being shipped with {c} is actually terrible because it promotes {r}",
+	"Kaga did {r} first",
+	"{c} is underrated", 
+	"{c} is overrated",
+	"{r} was done better in Tear Ring Saga",
+	"{c} is problematic because it has underlying themes of {r}",
+	"{g} has major issues with {r}",
+	"{c} is a war criminal",
+	"BSFE is better than {g}",
+	"{c} deserves to die",
+	"{c}'s character provides a deep analysis on {r}",
+	"{c} is the worst part of {g}",
+	"{c} did nothing wrong",
+	"{c} stans are the worst",
+	"{c} fucks",
+	"{c} hates {r}",
+	"{r} ruined {g}"
+]
