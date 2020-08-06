@@ -34,6 +34,7 @@ const game_list = {
 		'tmsfe': 'Tokyo Mirage Sessions #FE'
 	},
 	'askr': {
-		'feh': 'Heroes'
+		'feh': 'Heroes',
+		'all': 'Heroes'
 	}
 }

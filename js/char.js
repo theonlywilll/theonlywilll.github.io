@@ -580,7 +580,6 @@ const char_list = {
         "Hinoka",
         "Hisame",
         "Ignatius",
-        "Ike",
         "Izana",
         "Jakob",
         "Kaden",
@@ -595,7 +594,6 @@ const char_list = {
         "Llewelyn",
         "Lloyd",
         "Lucina",
-        "Marth",
         "Midori",
         "Minerva",
         "Mitama",
@@ -613,7 +611,6 @@ const char_list = {
         "Reina",
         "Rhajat",
         "Rinkah",
-        "Robin",
         "Ryoma",
         "Saizo",
         "Sakura",
@@ -880,5 +877,20 @@ const char_list = {
         "Shio",
         "Ayaha",
         "Riku"
-    ]
+    ],
+    'all': []
 }
+
+function add(element, index, array) {
+    x = char_list['all'].includes(element)
+    x =! x
+    if (x) {
+        char_list['all'].push(element)
+    };
+};
+
+for (const [key, value] of Object.entries(char_list)) {
+    if (key != 'all') {
+        value.forEach(add);
+    };
+};
