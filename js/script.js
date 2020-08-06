@@ -24,8 +24,15 @@ function doit() {
 		phrase = phrase.replace(key, value);
 	};
 
+	var picked = []
 	while (phrase.includes('{c}')) {
-		phrase = phrase.replace('{c}', pick_random(char_pool));
+		var char = '';
+		while (picked.includes(char) || char == '') {
+			char = pick_random(char_pool);
+		};
+
+		picked.push(char);
+		phrase = phrase.replace('{c}', char);
 	};
 
 	return phrase.charAt(0).toUpperCase() + phrase.slice(1);
