@@ -14,7 +14,7 @@ const phrase_list = [
 	"{c} is a top",
 	"{c} ruined Fire Emblem",
 	"Maeda ruined {c}",
-	"{c} would have been better if they joined earlier",
+	"{c} is a good unit only in 0% growths",
 	"{c} is the best character in the franchise",
 	"{c} is the worst character in the franchise",
 	"{c} is the best character in {g}",
@@ -26,7 +26,7 @@ const phrase_list = [
 	"I hate the {c} archetype",
 	"{c} is a hypocrite",
 	"{c} is an asshole",
-	"{c} being shipped with {c} is actually terrible because it promotes {r}",
+	"{c} being shipped with {c} is actually terrible because it normalizes {r}",
 	"Kaga did {r} first",
 	"{c} is underrated", 
 	"{c} is overrated",
@@ -43,7 +43,8 @@ const phrase_list = [
 	"{c} fucks",
 	"{c} hates {r}",
 	"{r} ruined {g}",
-	"{c} needs a Summer alt in Heroes",
+	"{c} sucks",
+	"{c} needs a summer alt in Heroes",
 	"The perfect Fire Emblem Warriors roster: {c}, {c}, {c}, {c}, and {c}",
 	"IS needs to add a new alt for {c} in Heroes",
 	"I wish {g} had a DLC with a new {c} costume",
@@ -51,5 +52,7 @@ const phrase_list = [
 	"{c} ended {r}",
 	"{c} jokes are not funny",
 	"{g} is the Dark Souls of Fire Emblem",
-	"{c} is the hottest Fire Emblem character"
+	"{c} is the hottest Fire Emblem character",
+	"{c} contributes more than {c}",
+	"{c} is my religion"
 ]
