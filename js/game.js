@@ -30,6 +30,9 @@ const game_list = {
 	'valentia': {
 		'fe15': 'Shadows of Valentia'
 	},
+	'tokyo': {
+		'tmsfe': 'Tokyo Mirage Sessions #FE'
+	},
 	'askr': {
 		'feh': 'Heroes'
 	}
