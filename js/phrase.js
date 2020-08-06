@@ -24,7 +24,7 @@ const phrase_list = [
 	"Heroes ruined {c}",
 	"I like the {c} archetype",
 	"I hate the {c} archetype",
-	"{c} is hypotrical",
+	"{c} is a hypocrite",
 	"{c} is an asshole",
 	"{c} being shipped with {c} is actually terrible because it promotes {r}",
 	"Kaga did {r} first",
