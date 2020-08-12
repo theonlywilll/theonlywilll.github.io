@@ -882,8 +882,7 @@ const char_list = {
 }
 
 function add(element, index, array) {
-    x = char_list['all'].includes(element);
-    x =! x;
+    x =! char_list['all'].includes(element);
     if (x) {
         char_list['all'].push(element);
     };
