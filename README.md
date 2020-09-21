@@ -1,3 +1,3 @@
-# theonlywilll.github.io
+# izumi-niche.github.io
 
-basic funny generator
+boring site
